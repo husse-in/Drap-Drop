@@ -1,0 +1,40 @@
+section{
+    width: 90%;
+    height: 600px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-image: url(/img/werewolf-s.jpg);
+}
+
+div{
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 90%;
+    margin: 10px;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+p{
+    background: royalblue;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+p:hover{
+    cursor: pointer;
+}
